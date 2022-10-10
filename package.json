@@ -17,6 +17,6 @@
     "cheerio": "^1.0.0-rc.12"
   },
   "scripts": {
-    "test": "ts-node parse.ts"
+    "parse": "ts-node parse.ts"
   }
 }
